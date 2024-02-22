@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Goge052215
-- 👀 I’m interested in algorithms and BigDATA models
-- 🌱 I’m currently learning C++
+**Bones collector**
+**If there are bones for me to collect report pls**
+- Interested in algorithms and BigDATA models
+- Currently wandering beyond the black walls
 
 <!---
 Goge052215/Goge052215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
