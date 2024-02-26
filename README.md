@@ -1,5 +1,5 @@
-**Bones collector**\
-**If there are bones for me to collect report pls**
+**IBDP survivor**\
+**Almost survive iB**
 - Interested in algorithms and BigDATA models
 - Currently wandering beyond the black walls
 
