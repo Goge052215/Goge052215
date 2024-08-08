@@ -1,4 +1,4 @@
-**IBDP survivor**\
+**IBDP survivor**
 - Interested in algorithms and BigDATA models
 - Currently wandering beyond the black walls
 
