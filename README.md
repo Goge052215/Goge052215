@@ -1,6 +1,4 @@
-**IBDP survivor**
-- Interested in algorithms and BigDATA models
-- Currently wandering beyond the black walls
+真正的糕手从来不写简介
 
 <!---
 Goge052215/Goge052215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
