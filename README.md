@@ -11,3 +11,15 @@ $\LaTeX{}$ and manim learner 📚
 Goge052215/Goge052215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+### Skills
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,swift,js,python,dask,ray,matlab,latex"
+    />
+  </a>
+</p>
