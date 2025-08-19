@@ -5,7 +5,7 @@
 
 ---
 
-### Currently Project working on
+### Current projects working on
 - [ ] [VorTeX](https://github.com/Goge052215/VorTeX)
 - [ ] [MaxTab](https://github.com/Goge052215/maxtab-source)
       
