@@ -1,5 +1,4 @@
 - HKU Statistic & CS sophomore
-- $\LaTeX$ lover
 
 ### Current projects working on
 - [ ] [VorTeX](https://github.com/Goge052215/VorTeX)
