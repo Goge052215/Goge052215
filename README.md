@@ -1,5 +1,5 @@
 - HKU Statistic & CS sophomore
-- Software Engineer @ Sixmac Team (Shanghai)
+- Software Engineer @ Sixmac (Shenzhen)
 
 ### Current projects working on
 - [ ] [VorTeX](https://github.com/Goge052215/VorTeX)
