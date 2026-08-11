@@ -1,5 +1,5 @@
 - HKU Statistic & CS sophomore
-- Software Engineer @ Sixmac (Shenzhen)
+- Software Engineer @ State Key Laboratory of Polyolefins and Catalysis (SKLPOC)
 
 ### Current projects working on
 - [ ] [VorTeX](https://github.com/Goge052215/VorTeX)
