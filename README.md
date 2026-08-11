@@ -1,4 +1,4 @@
-- HKU Statistic & CS sophomore
+- HKU Statistic & CS junior
 - Software Engineer @ State Key Laboratory of Polyolefins and Catalysis (SKLPOC)
 
 ### Current projects working on
